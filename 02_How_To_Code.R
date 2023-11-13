@@ -35,3 +35,10 @@ print(u + v)
 # Assign text to a variable
 textVar <- "Hello World"
 print(textVar)
+
+
+
+
+
+
+
